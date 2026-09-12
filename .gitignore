@@ -1,0 +1,16 @@
+# Maxfiy ma'lumotlar va kalitlar (hech qachon GitHubga yuklanmaydi)
+.env
+
+# Telegram login sessiyasi (xavfsizlik uchun)
+*.session
+*.session-journal
+
+# Qora ro'yxat (shaxsiy IDlar)
+ignored_chats.json
+
+# Python vaqtinchalik fayllari
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
